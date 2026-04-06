@@ -77,9 +77,9 @@ Customers are grouped into:
 - Low Risk
 
 Example:
-- High Risk: churn probability >= 0.60
-- Medium Risk: churn probability between 0.30 and 0.59
-- Low Risk: churn probability < 0.30
+- High Risk: churn probability >= 0.81
+- Medium Risk: churn probability between 0.47 and 0.81
+- Low Risk: churn probability < 0.47
 
 ## Explainability
 
